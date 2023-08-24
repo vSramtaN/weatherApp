@@ -7,7 +7,7 @@ import City from "./City";
 
 function App() {
 
-  const key ="9e07909bfd50f8e3a1b804eccbb0a61d" 
+  const key ="key i openweathermap ten alabilirsiniz" 
   const [city, setCity] = useState()
   const [search, setSearch] = useState('')
   
