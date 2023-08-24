@@ -18,7 +18,7 @@ function App() {
         console.log(response);
         setCity(response.data);
       } catch (error) {
-        console.log("Error verdi")
+        console.log("Error", error)
       }
       
     }
